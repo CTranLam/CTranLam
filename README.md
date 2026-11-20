@@ -24,7 +24,6 @@ Ha Noi, Viet Nam 🇻🇳
 
 > role
 DevOps / Cloud Engineer
-Software Engineer @ Rabiloo
 
 > education
 IT @ PTIT — GPA 3.52/4.0
