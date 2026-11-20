@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2ea043&height=200&section=header&text=Tr%E1%BA%A7n%20Quang%20L%C3%A2m&fontSize=60&fontColor=3fb950&desc=DevOps%20%7C%20Cloud%20Engineer&descAlignY=75&descSize=22" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6A00,100:FFD000&height=200&section=header&text=Tr%E1%BA%A7n%20Quang%20L%C3%A2m&fontSize=60&fontColor=1a1a1a&desc=DevOps%20%7C%20Cloud%20Engineer&descAlignY=75&descSize=22" width="100%"/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=3FB950&center=true&vCenter=true&width=600&lines=Kubernetes+%2B+Helm;GitOps+with+ArgoCD;Ansible+Automation;Prometheus+%2B+Grafana;AWS+Cloud" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=FF9900&center=true&vCenter=true&width=600&lines=Kubernetes+%2B+Helm;GitOps+with+ArgoCD;Ansible+Automation;Prometheus+%2B+Grafana;AWS+Cloud" />
 
   <br/>
   <a href="mailto:tlam15282@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/CTranLam"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://deepculture.vn"><img src="https://img.shields.io/badge/DeepCulture-2ea043?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+  <a href="https://deepculture.vn"><img src="https://img.shields.io/badge/DeepCulture-FF9900?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 </div>
 
 ---
@@ -89,12 +89,6 @@ IT @ PTIT — GPA 3.52/4.0
 
 </div>
 
-## 🏆 Certifications
-
-- ☁️ VPBank Cloud Quest Certification (2025)
-- 🧠 Samsung Advanced Algorithm Certification (2025)
-- 🗣️ TOEIC Listening & Reading: 685 (2025)
-
 ## 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=CTranLam&theme=github-compact&hide_border=true&bg_color=0d1117" width="100%"/>
@@ -103,6 +97,6 @@ IT @ PTIT — GPA 3.52/4.0
 
 <img src="https://raw.githubusercontent.com/CTranLam/CTranLam/output/github-snake-dark.svg" width="100%"/>
 
-<div align="center"><i>Made with 💚 by Quang Lâm</i></div>
+<div align="center"><i>Made with 🧡 by Quang Lâm</i></div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2ea043&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6A00,100:FFD000&height=120&section=footer" width="100%"/>
