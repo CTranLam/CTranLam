@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6A00,100:FFD000&height=200&section=header&text=Tr%E1%BA%A7n%20Quang%20L%C3%A2m&fontSize=60&fontColor=1a1a1a&desc=DevOps%20%7C%20Cloud%20Engineer&descAlignY=75&descSize=22" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:FF6A00,100:FFD000&height=200&section=header&text=Tr%E1%BA%A7n%20Quang%20L%C3%A2m&fontSize=60&fontColor=1a1a1a&desc=DevOps%20%7C%20Cloud%20Engineer&fontAlignY=30&descAlignY=50&descSize=22" width="100%"/>
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=FF9900&center=true&vCenter=true&width=600&lines=Kubernetes+%2B+Helm;GitOps+with+ArgoCD;Ansible+Automation;Prometheus+%2B+Grafana;AWS+Cloud" />
 
@@ -99,4 +99,4 @@ IT @ PTIT — GPA 3.52/4.0
 
 <div align="center"><i>Made with 🧡 by Quang Lâm</i></div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6A00,100:FFD000&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:FF6A00,100:FFD000&height=120&section=footer" width="100%"/>
