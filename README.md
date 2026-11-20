@@ -13,7 +13,32 @@
 
 ## 👨‍💻 About Me
 
-<img src="assets/about.svg" alt="About Tran Quang Lam: DevOps / Cloud Engineer in Ha Noi, IT @ PTIT (GPA 3.52), currently Backend & DevOps at DeepCulture. Focus: Kubernetes, Helm, ArgoCD, Ansible, AWS CloudFormation, Prometheus, Grafana, GitHub Actions, GitLab CI." width="100%"/>
+<table><tr><td>
+
+```
+> whoami
+ctranlam
+
+> location
+Ha Noi, Viet Nam 🇻🇳
+
+> role
+DevOps / Cloud Engineer
+
+> education
+IT @ PTIT — GPA 3.52/4.0
+```
+
+</td><td>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240"/>
+</td></tr></table>
+
+- ☁️ Hướng tới **DevOps / Cloud Engineer**: cloud infrastructure, automation, scalable systems
+- ☸️ Vận hành **Kubernetes** với **Helm**, triển khai theo **GitOps (ArgoCD)**
+- 🤖 Tự động hoá cấu hình server bằng **Ansible**, hạ tầng AWS bằng **CloudFormation**
+- 📊 Giám sát hệ thống với **Prometheus + Grafana**
+- 🔁 CI/CD với **GitHub Actions / GitLab CI**: build image, publish GHCR, deploy, backup, rollback
+- 🏛️ Backend & DevOps tại **[DeepCulture](https://deepculture.vn)** — NITS Lab, PTIT
 
 ## 🛠️ Tech Stack
 
