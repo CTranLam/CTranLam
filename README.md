@@ -93,9 +93,12 @@ IT @ PTIT — GPA 3.52/4.0
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=CTranLam&hide_border=true&bg_color=0d1117&color=8FB4F5&line=326CE5&point=FFFFFF&area=true&area_color=326CE5&title_color=5B8DEF" width="100%"/>
 
-## 🐍 Contribution Snake
+## 🎮 Contribution Pac-Man
 
-<img src="https://raw.githubusercontent.com/CTranLam/CTranLam/output/github-snake-dark.svg" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CTranLam/CTranLam/output/pacman-contribution-graph-dark.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/CTranLam/CTranLam/output/pacman-contribution-graph.svg" width="100%">
+</picture>
 
 <div align="center"><i>Made with 💙 by Quang Lâm</i></div>
 
