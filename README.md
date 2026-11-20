@@ -13,32 +13,33 @@
 
 ## 👨‍💻 About Me
 
-<table><tr><td>
-
+```yaml
+apiVersion: v1
+kind: Engineer
+metadata:
+  name: tran-quang-lam
+  namespace: ha-noi-vietnam 🇻🇳
+  labels:
+    role: devops-cloud-engineer
+    education: it-ptit
+    gpa: "3.52"
+spec:
+  focus: [cloud-infrastructure, automation, scalable-systems]
+  orchestration:
+    kubernetes: { packaging: helm, delivery: gitops-argocd }
+  automation:
+    config: ansible
+    iac: aws-cloudformation
+  observability: [prometheus, grafana]
+  ci_cd: [github-actions, gitlab-ci]   # build → GHCR → deploy → backup → rollback
+  currently:
+    project: DeepCulture @ NITS Lab, PTIT   # https://deepculture.vn
+    role: backend-and-devops
+status:
+  phase: Running
+  learning: distributed-systems
+  openTo: [devops, cloud, sre]
 ```
-> whoami
-ctranlam
-
-> location
-Ha Noi, Viet Nam 🇻🇳
-
-> role
-DevOps / Cloud Engineer
-
-> education
-IT @ PTIT — GPA 3.52/4.0
-```
-
-</td><td>
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240"/>
-</td></tr></table>
-
-- ☁️ Hướng tới **DevOps / Cloud Engineer**: cloud infrastructure, automation, scalable systems
-- ☸️ Vận hành **Kubernetes** với **Helm**, triển khai theo **GitOps (ArgoCD)**
-- 🤖 Tự động hoá cấu hình server bằng **Ansible**, hạ tầng AWS bằng **CloudFormation**
-- 📊 Giám sát hệ thống với **Prometheus + Grafana**
-- 🔁 CI/CD với **GitHub Actions / GitLab CI**: build image, publish GHCR, deploy, backup, rollback
-- 🏛️ Backend & DevOps tại **[DeepCulture](https://deepculture.vn)** — NITS Lab, PTIT
 
 ## 🛠️ Tech Stack
 
