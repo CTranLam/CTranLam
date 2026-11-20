@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:326CE5,100:0F1689&height=180&section=header&text=Tr%E1%BA%A7n%20Quang%20L%C3%A2m&fontSize=60&fontColor=ffffff&desc=DevOps%20%7C%20Cloud%20Engineer&fontAlignY=40&descAlignY=68&descSize=22" width="100%"/>
+  <img src="assets/header.svg" alt="Trần Quang Lâm — DevOps | Cloud Engineer" width="100%"/>
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=5B8DEF&center=true&vCenter=true&width=600&lines=Kubernetes+%2B+Helm;GitOps+with+ArgoCD;Ansible+Automation;Prometheus+%2B+Grafana;AWS+Cloud" />
 
