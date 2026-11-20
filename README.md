@@ -31,9 +31,11 @@ spec:
     config: ansible
     iac: aws-cloudformation
   observability: [prometheus, grafana]
-  ci_cd: [github-actions, gitlab-ci]   # build → GHCR → deploy → backup → rollback
+  # build → GHCR → deploy → backup → rollback
+  ci_cd: [github-actions, gitlab-ci]
   currently:
-    project: DeepCulture @ NITS Lab, PTIT   # https://deepculture.vn
+    project: DeepCulture @ NITS Lab, PTIT
+    url: https://deepculture.vn
     role: backend-and-devops
 status:
   phase: Running
