@@ -13,35 +13,7 @@
 
 ## 👨‍💻 About Me
 
-```yaml
-apiVersion: v1
-kind: Engineer
-metadata:
-  name: tran-quang-lam
-  namespace: ha-noi-vietnam 🇻🇳
-  labels:
-    role: devops-cloud-engineer
-    education: it-ptit
-    gpa: "3.52"
-spec:
-  focus: [cloud-infrastructure, automation, scalable-systems]
-  orchestration:
-    kubernetes: { packaging: helm, delivery: gitops-argocd }
-  automation:
-    config: ansible
-    iac: aws-cloudformation
-  observability: [prometheus, grafana]
-  # build → GHCR → deploy → backup → rollback
-  ci_cd: [github-actions, gitlab-ci]
-  currently:
-    project: DeepCulture @ NITS Lab, PTIT
-    url: https://deepculture.vn
-    role: backend-and-devops
-status:
-  phase: Running
-  learning: distributed-systems
-  openTo: [devops, cloud, sre]
-```
+<img src="assets/about.svg" alt="About Tran Quang Lam: DevOps / Cloud Engineer in Ha Noi, IT @ PTIT (GPA 3.52), currently Backend & DevOps at DeepCulture. Focus: Kubernetes, Helm, ArgoCD, Ansible, AWS CloudFormation, Prometheus, Grafana, GitHub Actions, GitLab CI." width="100%"/>
 
 ## 🛠️ Tech Stack
 
